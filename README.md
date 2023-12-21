@@ -41,11 +41,6 @@ if(result==-1):
 else:
     print(array)
     print("Element found at index: ",result)
-   
-  
-
-
-
 ```
 ii)	Find the element in a list using Binary Search(Iterative Method).
 ```python
@@ -74,9 +69,6 @@ if t== -1:
     print("Element not found ")
 else:
     print("Element found at index: ",t)
-
-
-
 
 ```
 iii)	Find the element in a list using Binary Search (recursive Method).
@@ -107,15 +99,11 @@ if t== -1:
 else:
     print("Element found at index: ",t)
 
-
-
-
 ```
 ## Output
 ## 1.Use a linear search method to match the item in a list.
 ![image](https://github.com/nataraj26/Search-Algorithm/assets/147514615/c819e619-46c7-4c98-9fe6-260b1c941330)
 ## 2.Find the element in a list using Binary Search(Iterative Method).
-
 ![image](https://github.com/nataraj26/Search-Algorithm/assets/147514615/2d14d09f-e553-4684-8966-eb77143db50d)
 ## 3.Find the element in a list using Binary Search (recursive Method).
 ![image](https://github.com/nataraj26/Search-Algorithm/assets/147514615/8c372a28-6f78-459e-b191-b1c63610ba97)
